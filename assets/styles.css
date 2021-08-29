@@ -1,0 +1,46 @@
+body {
+    background: lightgray;
+    width: 100vw;
+    height: 100vh;
+  }
+
+.header {
+    text-align: center;
+}
+
+.datetime {
+    text-align: center;
+    font-size: 24px;
+}
+
+.hour {
+    background: white;
+    margin: auto;
+    border: solid 2px;
+    
+}
+  
+.task {
+    background: lightcyan;
+    border-top: solid 2px;
+    border-right: solid 2px;
+    border-bottom: solid 2px;
+}
+
+
+.btn {
+    background: aqua;
+    border-top: solid 2px;
+    border-right: solid 2px;
+    border-bottom: solid 2px;
+}
+
+.time {
+    margin-top: 10px;
+}
+
+.to-do {
+    text-align: center;
+    margin: auto;
+   
+}
