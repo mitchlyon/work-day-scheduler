@@ -19,14 +19,15 @@ body {
     border: solid 2px;
     
 }
-  
-.task {
+
+.description {
+    text-align: center;
     background: lightcyan;
     border-top: solid 2px;
     border-right: solid 2px;
     border-bottom: solid 2px;
-}
 
+}
 
 .btn {
     background: aqua;
@@ -44,3 +45,18 @@ body {
     margin: auto;
    
 }
+
+.past {
+    background-color: red;
+    
+  }
+  
+  .present {
+    background-color: greenyellow;
+   
+  }
+  
+  .future {
+    background-color: white;
+  }
+
