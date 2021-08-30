@@ -14,15 +14,29 @@ body {
 }
 
 .hour {
-    background: white;
+    
     margin: auto;
     border: solid 2px;
     
 }
 
+.past {
+    background: red;
+    
+}
+  
+.present {
+    background: greenyellow;
+   
+}
+  
+.future {
+    background: white;
+}
+
 .description {
     text-align: center;
-    background: lightcyan;
+    
     border-top: solid 2px;
     border-right: solid 2px;
     border-bottom: solid 2px;
@@ -36,7 +50,7 @@ body {
     border-bottom: solid 2px;
 }
 
-.time {
+.hour-block {
     margin-top: 10px;
 }
 
@@ -46,17 +60,5 @@ body {
    
 }
 
-.past {
-    background-color: red;
-    
-  }
-  
-  .present {
-    background-color: greenyellow;
-   
-  }
-  
-  .future {
-    background-color: white;
-  }
+
 
